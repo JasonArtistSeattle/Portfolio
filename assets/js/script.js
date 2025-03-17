@@ -80,7 +80,7 @@ for (let dict of content) {
     newElement.appendChild(titleTag);
     newElement.appendChild(mediumTag);
 
-    imageTag.src = `assets/images/${dict["image"]}`;
+    imageTag.src = `./assets/images/${dict["image"]}`;
     titleTag.textContent = dict["title"];
     mediumTag.textContent = `Medium: ${dict["medium"]}`;
 }
