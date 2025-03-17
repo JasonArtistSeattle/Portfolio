@@ -1,0 +1,36 @@
+h1 {
+    letter-spacing: 1em;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+header {
+    margin-bottom: 10%;
+}
+body {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: 0 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: black;
+    color: white;
+}
+div {
+    margin-bottom: 12.5%;
+}
+footer {
+    padding-bottom: 2.5%;
+    text-align: center;
+    
+}
+a {
+    color: lightblue; 
+}
+footer > p {
+    width: 80%;
+    margin: 0 10%;
+}
