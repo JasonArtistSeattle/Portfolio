@@ -11,9 +11,9 @@ header {
 }
 body {
     display: block;
-    width: 50%;
+    width: 60%;
     text-align: center;
-    margin: 0 25%;
+    margin: 0 20%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
     background-color: black;
@@ -23,14 +23,13 @@ div {
     margin-bottom: 12.5%;
 }
 footer {
-    padding-bottom: 2.5%;
+    padding-bottom: 10%;
     text-align: center;
-    
 }
 a {
     color: lightblue; 
 }
 footer > p {
-    width: 80%;
-    margin: 0 10%;
+    width: 90%;
+    margin: 0 5%;
 }

@@ -1,62 +1,62 @@
 const content = [
 {
-    image: "january.jpg",
-    title: "Front",
-    medium: "Acrylic on Canvas"
+    image: "november.jpg",
+    title: "\"November Storm\"",
+    medium: "Mixed Media on Canvas"
 },
 {
     image: "february.jpg",
-    title: "Apples",
+    title: "\"Apples\"",
     medium: "Acrylic on Canvas"
 },
 {
     image: "march.jpg",
-    title: "Morning Watch",
+    title: "\"Morning Watch\"",
     medium: "Mixed Acrylic on Canvas"
 },
 {
     image: "april.jpg",
-    title: "All in All",
+    title: "\"All in All\"",
     medium: "Mixed Media on Paper"
 },
 {
     image: "may.jpg",
-    title: "May - Fallow",
+    title: "\"May - Fallow\"",
     medium: "Watercolor"
 },
 {
     image: "june.jpg",
-    title: "Summer Inlet",
+    title: "\"Summer Inlet\"",
     medium: "Acrylic on Canvas"
 },
 {
     image: "july.jpg",
-    title: "Jump",
+    title: "\"Jump\"",
     medium: "Mixed Media on Canvas"
 },
 {
     image: "august.jpg",
-    title: "Buttermilk Morning",
+    title: "\"Buttermilk Morning\"",
     medium: "Acrylic on Canvas"
 },
 {
     image: "september.jpg",
-    title: "Morning Call",
+    title: "\"Morning Call\"",
     medium: "Watercolor"
 },
 {
     image: "october.jpg",
-    title: "Dawn",
+    title: "\"Dawn\"",
     medium: "Acrylic on Textured Paper"
 },
 {
-    image: "november.jpg",
-    title: "November Storm",
-    medium: "Mixed Media on Canvas"
+    image: "january.jpg",
+    title: "\"Front\"",
+    medium: "Acrylic on Canvas"
 },
 {
     image: "december.jpg",
-    title: "First Snow",
+    title: "\"First Snow\"",
     medium: "Watercolor"
 },
 ];
